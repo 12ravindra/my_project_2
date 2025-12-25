@@ -1,0 +1,15 @@
+{
+  "name": "BlueTheme",
+  "dataColors": [
+    "#1976d2",
+    "#2196f3",
+    "#64b5f6",
+    "#90caf9",
+    "#0d47a1",
+    "#42a5f5",
+    "#1e88e5"
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#1976d2"
+}
